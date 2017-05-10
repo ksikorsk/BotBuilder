@@ -7,7 +7,7 @@ namespace Microsoft.Bot.Sample.SimpleIVRBot
 {
     public static class IvrOptions
     {
-        internal const string WelcomeMessage = "Hello, you have successfully contacted XY internet service provider.";
+        internal const string WelcomeMessage = "Hello, you have successfully contacted Kamil's sample bot.";
 
         internal const string MainMenuPrompt =
             "If you are a new client press 1, for technical support press 2, if you need information about payments press 3, to hear more about the company press 4. To repeat the options press 5.";
